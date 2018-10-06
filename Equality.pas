@@ -101,5 +101,3 @@ begin
         Process(1,s);
         write;
 end.
-
-
