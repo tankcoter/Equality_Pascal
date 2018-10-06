@@ -99,5 +99,6 @@ end;
 begin
         read;
         Process(1,s);
+        Write('Ahahahahahaha');
         write;
 end.
